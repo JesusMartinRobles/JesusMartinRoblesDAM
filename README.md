@@ -13,7 +13,7 @@
 
 - 🎓 Actualmente curso el ciclo formativo de **Grado Superior DAM**
 - 🛠️ Me interesa el desarrollo **backend, móvil Android, bases de datos y XML**
-- 📚 Estoy aprendiendo tecnologías como **Java, Kotlin, SQLite, Hibernate, XML y Git**
+- 📚 Estoy aprendiendo tecnologías como **Java, SQLite, Hibernate, XML y Git**
 - 🔍 Busco prácticas para aplicar mis conocimientos y seguir aprendiendo en equipo
 
 ---
