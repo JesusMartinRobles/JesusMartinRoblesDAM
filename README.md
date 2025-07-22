@@ -20,26 +20,55 @@
 
 ## 🧰 Tecnologías que uso
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+## 🚀 Tecnologías utilizadas
+
+### 🧱 Lenguajes y plataformas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
 
 ---
 
-## 📂 Proyectos destacados
+### 🧰 Herramientas y entornos
 
-### 🔹 [AD_Tarea_3_Hibernate_Futbol](https://github.com/jesusmartinrobles/AD_Tarea_3_Hibernate_Futbol)
-> Gestión de equipos y futbolistas con Hibernate, MySQL y Java
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
-### 🔹 [AD_Tarea_4_db4o_Pinacoteca](https://github.com/jesusmartinrobles/AD_Tarea_4_db4o_Pinacoteca)
-> Gestión de cuadros y pintores usando una base de datos orientada a objetos (db4o)
+---
 
-### 🔹 [AD_Tarea_5_XML_BaseX](https://github.com/jesusmartinrobles/AD_Tarea_5_XML_BaseX)
-> Aplicación para gestionar productos y ventas a través de XML y consultas XQuery
+### 🗃️ Bases de datos y almacenamiento
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### 📦 Librerías y APIs de Android
+
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Fused Location Provider](https://img.shields.io/badge/FusedLocationProvider-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-3F51B5?style=for-the-badge&logo=android&logoColor=white)
+![SensorEventListener](https://img.shields.io/badge/Sensors-6A1B9A?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+### 🎮 Componentes de Unity
+
+![Rigidbody2D](https://img.shields.io/badge/Rigidbody2D-222?style=for-the-badge&logo=unity&logoColor=white)
+![Animator](https://img.shields.io/badge/Animator-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+### 💻 Interfaces y diseño
+
+![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaBeans](https://img.shields.io/badge/JavaBeans-F57C00?style=for-the-badge&logo=java&logoColor=white)
+![Internacionalización](https://img.shields.io/badge/i18n-2196F3?style=for-the-badge&logo=googletranslate&logoColor=white)
+
 
 ---
 
